@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="镜阶">
+  <rect width="32" height="32" rx="7" fill="#F3E6D4"/>
+  <path fill="#3E8E9A" d="M6 20.5 16 26.5 26 20.5 16 14.5Z"/>
+  <path fill="#C45C4A" d="M6 15.2 16 21.2 26 15.2 16 9.2Z"/>
+  <path fill="#2A211C" d="M16 9.2 26 15.2 26 16.6 16 10.6Z" opacity=".28"/>
+  <path fill="#C6A15B" d="M16 5.2 19.2 7.1 16 9 12.8 7.1Z"/>
+  <circle cx="16" cy="12.4" r="1.15" fill="#F3E6D4"/>
+</svg>
